@@ -1,0 +1,6 @@
+{
+  "name": "Amar Dokan",
+  "description": "Complete Bangladesh E-Commerce store and real-time admin portal with Bengali/English, BDT (৳) pricing, inventory control, and live order alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
